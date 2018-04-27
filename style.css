@@ -1,0 +1,84 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Rubik:400,500);
+body {
+	margin: 0;	
+	background-color: #161616;
+	font-family: 'Rubik', sans-serif;
+}
+
+header {
+	padding: 30px;
+	background-image: url(https://images.pexels.com/photos/373934/pexels-photo-373934.jpeg?h=350&auto=compress&cs=tinysrgb);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100%;
+	color: #fff;
+	text-align: center;	    
+}
+
+header h1 {
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 48px;
+}
+
+.container {
+	margin: 0 auto;
+	width: 700px;
+	background-color: #2E2E2D;
+}
+
+section {
+	padding: 0 20px;
+	text-align: left;
+}
+
+h1, h2 {
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.about h2 {
+	margin-top: 60px;
+	background-color: #266500;;
+	color: #F4E3DC;
+	font-size: 28px;
+}
+
+.about p {
+	color: #F4E3DC;
+	text-align: center;
+}
+
+.interests h2 {
+	background-color: #932A00;
+	color: #F4E3DC;
+	margin-top: 40px;
+}
+
+.interests p {
+	color: #F4E3DC;
+	text-align: center;	
+}
+
+.interests ul {
+	color: #F4E3DC;
+	margin-left: 160px;
+}
+
+footer {
+	margin-top: 60px;	
+	padding: 30px;
+	background-color: #524B00;
+}
+
+footer p {
+	text-align: center;
+	color: #B0B5C4;
+}
+
+footer a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #FFC532;
+}
